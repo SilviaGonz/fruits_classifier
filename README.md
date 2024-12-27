@@ -119,7 +119,7 @@ jupyter notebook main.ipynb
 
 <ul>
     <li><strong>Diagonal elements:</strong> These represent the number of correct predictions for each class. For example, the cell at (Apple, Apple) shows 47, which means that 47 instances of the "Apple" class were correctly predicted as "Apple."</li>
-    <li><strong>Elements outside the diagonal:</strong> These represent misclassifications. For example, the cell at (Apple, Avocado) shows 1, which means that 1 instance of the "Apple" class was incorrectly classified as "Avocado."</li>
+    <li><strong>Elements outside the diagonal:</strong> These represent misclassifications. For example, the cell at (Apple, Avocado) shows 2, which means that 2 instance of the "Apple" class was incorrectly classified as "Avocado."</li>
 <ul>
 
 <!-- Imagen de ejemplo para la matriz de confusión -->
