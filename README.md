@@ -106,7 +106,8 @@ jupyter notebook main.ipynb
 <ul>
     <li>This graph shows the model's accuracy on the training and validation sets across epochs.</li>
     <li>The blue line represents the accuracy during training, while the orange line represents the accuracy in validation.</li>
-<ul>
+</ul>
+
 <p>Accuracy in both sets (training and validation) increases significantly in the early epochs, indicating that the model is improving rapidly. However, after a certain point, both training and validation accuracies seem to stabilize, suggesting that the model has reached its maximum generalization capacity for both the validation and training data.</p>
 
 <p>In conclusion, the model performs well in both training and validation. The loss decreases rapidly, and the accuracy increases steadily.</p>
