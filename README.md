@@ -95,11 +95,12 @@ jupyter notebook main.ipynb
 <ul>
     <li>This graph shows the model's loss over epochs for both the training and validation sets.</li>
     <li>The blue line represents the loss during training, while the orange line represents the loss in validation.</li>
-<ul>
+</ul>
+
 <p>In the early epochs, loss in training decreases rapidly, which is a good sign that the model is learning from the data. From the fourth epoch, both training and validation loss are stabilized, indicating that the model has reached a point where performance does not improve significantly.</p>
 
 <!-- Imagen de ejemplo para la gráfica de precisión -->
-<img src="accurrancy.png" alt="Lower Graph" style="max-width: 100%; height: auto;">
+<img src="acurrancy.png" alt="Lower Graph" style="max-width: 100%; height: auto;">
 
 <strong>Lower Graph: Accuracy during Training and Validation</strong>
 
